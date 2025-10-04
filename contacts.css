@@ -1,0 +1,39 @@
+body {
+  background-color: #fffaf5; 
+  font-family:sans-serif;
+  color: #222;
+  margin: 40px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 32px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #3b2e2e;
+  text-shadow: 2px 2px 6px;
+  margin-bottom: 20px;
+}
+
+p, br {
+  font-size: 18px;
+  line-height: 1.7;
+  text-shadow: 1px 1px 4px ;
+}
+
+b {
+  text-transform: uppercase;
+  color:purple; 
+  text-shadow: 1px 1px 3px;
+}
+
+img {
+  border-radius: 12px;
+  box-shadow: 2px 2px 10px;
+  margin-bottom: 15px;
+}
+
+
+section {
+  margin: 20px;
+}
